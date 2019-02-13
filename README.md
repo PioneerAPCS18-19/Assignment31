@@ -12,5 +12,3 @@
 
 ![six](https://i.imgur.com/NS9c7Ga.png)
 
-Please write the two methods `getDuration` and `getShortestLayover`.
-
